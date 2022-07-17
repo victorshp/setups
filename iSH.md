@@ -34,5 +34,9 @@ iSH uses a package manager called `apk`. Common apk commands include:
   - `git` is the powerful tool for managing text, including versioning and conflict handling. Created by the powerful Mr. Linus Torvalds.
   - To install, run: `apk add git`
   - To view git's commands, run: `git`
-- **[Vim]**()
+- **[Vim]**(https://www.vim.org/)
+  - `vim` is a very powerful text-editor. Though you can manage all your code editing through it, its power is only matched by its requirement to memorize certain commands. And it's better than Emacs (jk)
+  - To install, run: `apk add vim`
+  - To open it, run: `vim`
+  - To exit it, press: `Esc` or `Ctrl` + `C`, write `:q` on the vim command board, and voila, your first full vim interaction that surpasses most!
 - **[NodeJS]**()
