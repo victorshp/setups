@@ -40,3 +40,5 @@ iSH uses a package manager called `apk`. Common apk commands include:
   - To open it, run: `vim`
   - To exit it, press: `Esc` or `Ctrl` + `C`, write `:q` on the vim command board, and voila, your first full vim interaction that surpasses most!
 - **[NodeJS]**()
+- **[Tmux]**()
+  - A beautiful terminal splitter. Easy as `nano`, powerful as `vim`.
